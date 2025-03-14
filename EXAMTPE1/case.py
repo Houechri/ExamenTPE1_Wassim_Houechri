@@ -3,4 +3,3 @@ def somme (T):
     for t in T:
         S+=t
         return S
-
